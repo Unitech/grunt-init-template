@@ -1,6 +1,6 @@
 
 // Basic template description.
-exports.description = 'Create a Node.js module, including Mocha/Should.js unit tests.';
+exports.description = '{%= description %}'; 
 
 // Template-specific notes to be displayed before question prompts.
 exports.notes = '_Project name_ shouldn\'t contain "node" or "js" and should ' +
